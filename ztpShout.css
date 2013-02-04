@@ -1,0 +1,30 @@
+body,td,th {
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10pt;
+	color: #FFF;
+}
+body {
+	background-color: #00A;
+	margin-left: 4px;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+}
+a:link {
+	color: #0F0;
+}
+a:visited {
+	color: #FF0;
+}
+a:hover {
+	color: #0F0;
+}
+a:active {
+	color: #FF0;
+}
+h1 {
+	font-size: 12pt;
+	color: #FFF;
+}
