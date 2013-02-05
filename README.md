@@ -14,7 +14,7 @@ The SQL script and default connection details in the repo use 'changeMe' for a M
 1. Edit **at least** the 'changeMe' in the included MySQL script for security.
 2. Run that MySQL script as the MySQL "root" user.
 3. Edit the 'Connections/settings.php' file to match your MySQL configuration.
-4. Upload the index.php file and Connections folder (and its contents) to someplace handy on your web server.
+4. Upload the index.php file, ztpShout.css file, and Connections folder (and its contents) to someplace handy on your web server.
 5. Either link to or iframe the index.php file wherever you want the shoutbox to appear.
 
 **Advanced Tricks:**
